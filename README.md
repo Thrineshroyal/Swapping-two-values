@@ -32,7 +32,7 @@ print("swapped nymbers are",a,b)
 ```
 
 ## OUTPUT:
-
+![output](<Screenshot 2023-10-17 133503.png>)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed 
